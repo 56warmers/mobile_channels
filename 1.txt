@@ -1,21 +1,18 @@
 央视频道,#genre#
 
 CCTV-01综合,http://39.135.133.155:80/TVOD/88888888/224/3221226119/main.m3u8
-CCTV-01综合,http://cctv.ysp.iptv.xin:2052/liveinfo.ysp.cctv.cn/ysp/2024078201
 CCTV-01综合,http://183.203.182.117:9616/hls/1/index.m3u8
 CCTV-01综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226559
 CCTV-01综合,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-@@ -8,11 +9,13 @@ CCTV-01综合,https://migu.bxtv.587788.xyz/migu/608807420.m3u8?migutoken=c1e4719
+CCTV-01综合,https://migu.bxtv.587788.xyz/migu/608807420.m3u8?migutoken=c1e47192e21ebd32f0cc762a6749923a27468f3c407786209ce921f54a3faab96bf61281f3baee22f2ea266b1ec7e46d7bdfab0916f461bf38474fe38d0bdb2dcc56ee56853b8d6c509d866d80
 CCTV-01综合,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226559/index.m3u8
 
 CCTV-02财经,http://39.135.133.155:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
-CCTV-02财经,http://cctv.ysp.iptv.xin:2052/liveinfo.ysp.cctv.cn/ysp/2024075401
 CCTV-02财经,http://39.135.133.154:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV-02财经,http://liushizupu.site:35455/gaoma/cctv2.m3u8
 CCTV-02财经,http://183.203.182.117:9616/hls/2/index.m3u8
 
 CCTV-03综艺,http://111.29.9.38:6610/000000001000/1000000001000011218/index.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=3
-CCTV-03综艺,http://cctv.ysp.iptv.xin:2052/liveinfo.ysp.cctv.cn/ysp/2024068501
 CCTV-03综艺,http://39.135.133.174:80/wh7f454c46tw1956839526_720028145/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV-03综艺,http://39.135.135.28:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226021/index.m3u8
 CCTV-03综艺,http://39.135.133.157:80/TVOD/88888888/224/3221225799/main.m3u8
@@ -98,7 +95,7 @@ CCTV-16奥林匹克,http://liushizupu.site:35455/gaoma/cctv16.m3u8
 
 cctv17农业农村,http://39.135.135.28:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/1.m3u8
 cctv17农业农村,http://liushizupu.site:35455/gaoma/cctv17.m3u8
- 
+
 CCTV-4k高码,http://liushizupu.site:35455/gaoma/cctv4k.m3u8
 CCTV-8k高码,http://liushizupu.site:35455/gaoma/cctv8k_36m.m3u8
 CCTVCCTV台球,http://106.46.147.61:10443/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
