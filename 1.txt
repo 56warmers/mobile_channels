@@ -1051,13 +1051,14 @@ BESTV,http://[2409:8087:1e01:20::25]/PLTV/11/224/3221225667/1.m3u8$『上海V6�
 BESTV,http://[2409:8087:1e01:20::26]/PLTV/11/224/3221225667/1.m3u8$『上海V6』
 BESTV,http://[2409:8087:1e01:20::27]/PLTV/11/224/3221225667/1.m3u8$『上海V6』
 BESTV,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225667/1.m3u8$『上海V6』
+
 内蒙古移动,#genre#
 CCTV1,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225920/1.m3u8?fmt=ts2hls$『1080P』
 CCTV2,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225918/1.m3u8?fmt=ts2hls$『1080P』
 CCTV3,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225963/1.m3u8?fmt=ts2hls$『1080P』
 CCTV4,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225898/1.m3u8?fmt=ts2hls$『1080P』
-CCTV4美洲,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225970/1.m3u8?fmt=ts2hls$『1080P』
 CCTV4欧洲,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225969/1.m3u8?fmt=ts2hls$『1080P』
+CCTV4美洲,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225970/1.m3u8?fmt=ts2hls$『1080P』
 CCTV5,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225964/1.m3u8?fmt=ts2hls$『1080P』
 CCTV6,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225965/1.m3u8?fmt=ts2hls$『1080P』
 CCTV7,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225897/1.m3u8?fmt=ts2hls$『1080P』
@@ -1071,14 +1072,16 @@ CCTV14,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/
 CCTV15,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225866/1.m3u8?fmt=ts2hls$『1080P』
 CCTV16,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226300/1.m3u8?fmt=ts2hls$『1080P』
 CCTV17,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225977/1.m3u8?fmt=ts2hls$『1080P』
+
 CTETV1,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226328/1.m3u8?fmt=ts2hls$『1080P』
 CETV4,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225892/1.m3u8?fmt=ts2hls$『1080P』
 CGTN,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225971/1.m3u8?fmt=ts2hls$『1080P』
-CGTN法语,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225974/1.m3u8?fmt=ts2hls$『1080P』
 CGTN记录,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225972/1.m3u8?fmt=ts2hls$『1080P』
+CGTN法语,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225974/1.m3u8?fmt=ts2hls$『1080P』
 CGTN西语,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225973/1.m3u8?fmt=ts2hls$『1080P』
 CGTN俄语,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225976/1.m3u8?fmt=ts2hls$『1080P』
 CGTN阿拉伯语,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225975/1.m3u8?fmt=ts2hls$『1080P』
+
 CCTV4K,	http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226340/1.m3u8?fmt=ts2hls$『24M2160HEVC』
 CCTV16-4K,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226301/1.m3u8?fmt=ts2hls$『36M2160HEVC』
 北京卫视4K,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226322/1.m3u8?fmt=ts2hls$『24M2160HEVC』
@@ -1090,11 +1093,12 @@ CCTV16-4K,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/2
 深圳卫视4K,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226335/1.m3u8?fmt=ts2hls$『24M2160HEVCv
 四川卫视4K,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226364/1.m3u8?fmt=ts2hls$『36M2160HEVC』
 浙江卫视4K,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226338/1.m3u8?fmt=ts2hls$『36M2160HEVC』
+
+
 湖南卫视,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225912/1.m3u8?fmt=ts2hls$『1080P』
 浙江卫视,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225906/1.m3u8?fmt=ts2hls$『1080P』
 东方卫视,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225908/1.m3u8?fmt=ts2hls$『1080P』
 江苏卫视,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225909/1.m3u8?fmt=ts2hls$『1080P』
-江苏卫视,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225928/1.m3u8?fmt=ts2hls$『1080P』
 安徽卫视,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225901/1.m3u8?fmt=ts2hls$『1080P』
 北京卫视,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225913/1.m3u8?fmt=ts2hls$『1080P』
 天津卫视,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225907/1.m3u8?fmt=ts2hls$『1080P』
@@ -1105,7 +1109,6 @@ CCTV16-4K,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/2
 江西卫视,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226324/1.m3u8?fmt=ts2hls$『1080P』
 东南卫视,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225914/1.m3u8?fmt=ts2hls$『1080P』
 深圳卫视,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225910/1.m3u8?fmt=ts2hls$『1080P』
-深圳卫视,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225929/1.m3u8?fmt=ts2hls$『1080P』
 广东卫视,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225905/1.m3u8?fmt=ts2hls$『1080P』
 广西卫视,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226344/1.m3u8?fmt=ts2hls$『1080P』
 海南卫视,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225930/1.m3u8?fmt=ts2hls$『1080P』
@@ -1126,9 +1129,8 @@ CCTV16-4K,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/2
 北京纪实科教,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225744/1.m3u8?fmt=ts2hls$『1080P』
 金鹰纪实,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225726/1.m3u8?fmt=ts2hls$『1080P』
 山东教育卫视,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225773/1.m3u8?fmt=ts2hls$『1080P』
+
 内蒙古卫视,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225676/1.m3u8?fmt=ts2hls$『1080P』
-内蒙古卫视,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225795/1.m3u8?fmt=ts2hls$『1080P』
-内蒙古卫视,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225882/1.m3u8?fmt=ts2hls$『1080P』
 内蒙古卫视,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225870/1.m3u8?fmt=ts2hls$『1080P』
 内蒙古蒙语,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225705/1.m3u8?fmt=ts2hls$『1080P』
 内蒙古蒙语2,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225876/1.m3u8?fmt=ts2hls$『1080P』
@@ -1137,6 +1139,7 @@ CCTV16-4K,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/2
 内蒙古少儿频道,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225874/1.m3u8?fmt=ts2hls$『1080P』
 内蒙古农牧频道,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225878/1.m3u8?fmt=ts2hls$『1080P』
 内蒙古新闻综合,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225875/1.m3u8?fmt=ts2hls$『1080P』
+
 呼和浩特新闻综合,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225814/1.m3u8?fmt=ts2hls$『1080P』
 呼和浩特影视娱乐,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225815/1.m3u8?fmt=ts2hls$『1080P』
 鄂尔多斯新闻综合,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225835/1.m3u8?fmt=ts2hls$『1080P』
@@ -1169,6 +1172,7 @@ CCTV16-4K,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/2
 察哈尔右翼后旗广播电视台,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226295/1.m3u8?fmt=ts2hls$『1080P』
 苏尼特左旗广播电视台,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225797/1.m3u8?fmt=ts2hls$『1080P』
 突泉县广播电视台,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225798/1.m3u8?fmt=ts2hls$『1080P』
+凉城县广播电视台,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225928/1.m3u8?fmt=ts2hls$『1080P』
 乌拉特中旗电视台,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225804/1.m3u8?fmt=ts2hls$『1080P』
 西乌珠穆沁旗广播电视台,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225840/1.m3u8?fmt=ts2hls$『1080P』
 科尔沁右翼中旗广播电视台,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225881/1.m3u8?fmt=ts2hls$『1080P』
