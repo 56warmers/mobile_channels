@@ -99,6 +99,19 @@ CGTN西语,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/
 CGTN俄语,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225976/1.m3u8?fmt=ts2hls$『全网』
 CGTN阿拉伯语,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225975/1.m3u8?fmt=ts2hls$『全网』
 
+CCTV1,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225723/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
+CCTV1,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225770/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
+CCTV2,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226122/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
+CCTV3,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225766/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
+CCTV5,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225734/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
+CCTV6,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226148/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
+CCTV7,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226137/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
+CCTV8,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226167/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
+CCTV8,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225736/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
+CCTV10,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225743/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
+CCTV13,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226128/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
+CCTV15,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226147/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
+CCTV16,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226120/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
 
 4K频道,#genre#
 CCTV4K,	http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226340/1.m3u8?fmt=ts2hls$『全网』
@@ -114,12 +127,8 @@ CCTV16-4K,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/2
 浙江卫视4K,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226338/1.m3u8?fmt=ts2hls$『全网』
 欢笑剧场4K,http://111.56.121.176/000000001000/5000000007000010001/1.m3u8?fmt=ts2hls『全网』
 
-至臻世界4K,http://[2409:8087:1e01:20::13]/PLTV/11/224/3221225687/1.m3u8$『上海V6』
-至臻世界4K,http://[2409:8087:1e01:20::26]/PLTV/11/224/3221225687/1.m3u8$『上海V6』
-至臻世界4K,http://[2409:8087:1e01:20::27]/PLTV/11/224/3221225687/1.m3u8$『上海V6』
-至臻世界4K,http://[2409:8087:1e01:20::28]/PLTV/11/224/3221225687/1.m3u8$『上海V6』
-至臻世界4K,http://[2409:8087:1e01:20::29]/PLTV/11/224/3221225687/1.m3u8$『上海V6』
-至臻世界4K,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225687/1.m3u8$『上海V6』
+至臻世界4K,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225687/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
+咪视界4K,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226080/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
 
 地方卫视,#genre#
 湖南卫视,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225912/1.m3u8?fmt=ts2hls$『全网』
@@ -272,6 +281,7 @@ CCTV16-4K,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/2
 儿童秀场轮播台,http://111.56.121.176/050000001888/5000000188800000185/1.m3u8?fmt=ts2hls
 综艺天地轮播台,http://111.56.121.176/050000001888/5000000188800000188/1.m3u8?fmt=ts2hls
 精彩纪实轮播台,http://111.56.121.176/050000001888/5000000188800000187/1.m3u8?fmt=ts2hls
+
 影视台,#genre#
 动作电影轮播台,http://111.56.121.176/050000001888/5000000188800000190/1.m3u8?fmt=ts2hls
 古装神剧轮播台,http://111.56.121.176/050000001888/5000000188800000186/1.m3u8?fmt=ts2hls
@@ -416,34 +426,36 @@ CCTV-10 科教,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225743/index.m3u8?
 CCTV-13 新闻,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226128/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
 CCTV-15 音乐,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226147/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
 CCTV-16 奥林匹克,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226120/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
+
 CGTN,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226016/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
-五星体育,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225732/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
-辽宁卫视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225747/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
-江西卫视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225740/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
+厦门卫视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226008/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
+内蒙古卫视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226011/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
+陕西卫视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226086/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
+宁夏卫视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226092/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
+康巴卫视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225773/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
+新疆卫视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226088/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
+兵团卫视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226111/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
+西藏卫视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226012/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
+西藏藏语,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225767/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
+嘉佳卡通,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226021/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
+
 东南卫视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225745/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
 东方卫视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225725/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
 东方卫视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226050/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
 东方卫视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226106/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
 云南卫视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226109/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
 云南卫视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226151/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
-兵团卫视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226111/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
-内蒙古卫视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226082/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
-内蒙古卫视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226011/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
 北京卫视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225724/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
-厦门卫视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226008/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
 吉林卫视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226082/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
 吉林卫视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226149/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
 四川卫视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226152/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
 天津卫视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225742/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
-宁夏卫视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226092/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
 安徽卫视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225739/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
 山东卫视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225733/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
 山西卫视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226113/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
 广东卫视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225731/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
 广西卫视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226084/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
 广西卫视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226130/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
-康巴卫视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225773/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
-新疆卫视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226088/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
 江苏卫视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225720/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
 江西卫视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225740/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
 河北卫视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226107/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
@@ -454,15 +466,12 @@ CGTN,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226016/index.m3u8?icpid=11&R
 湖北卫视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225729/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
 湖南卫视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225726/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
 甘肃卫视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226090/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
-西藏卫视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226012/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
-西藏藏语,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225767/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
 贵州卫视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226173/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
 辽宁卫视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225747/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
 重庆卫视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226171/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
-陕西卫视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226086/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
 青海卫视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226105/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
 黑龙江卫视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225722/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
-至臻世界4K,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225687/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
+
 上海新闻综合,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226136/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
 上海都市,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225749/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
 东方影视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225744/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
@@ -485,10 +494,10 @@ BRTV卡酷少儿,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226019/index.m3u
 金鹰卡通,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226094/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
 哈哈炫动,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226161/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
 哈哈炫动,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226175/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
-嘉佳卡通,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226021/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
 游戏风云,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226117/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
 游戏风云,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226140/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
-咪咕视频,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226080/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
+至臻世界4K,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225687/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
+咪视界4K,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226080/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
 咪视界,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225636/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
 咪视界,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225638/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
 咪视界,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225639/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3$『新上海V6』
