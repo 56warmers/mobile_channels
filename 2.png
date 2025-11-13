@@ -1,151 +1,42 @@
-#EXTM3U
-#EXTINF:-1 ,cctv1
-rtsp://10.255.27.25/PLTV/88888909/224/3221226308/400175508.smil
-#EXTINF:-1 ,cctv2
-rtsp://10.255.27.25/PLTV/88888909/224/3221226321/400175520.smil
-#EXTINF:-1 ,cctv3
-rtsp://10.255.27.25/PLTV/88888909/224/3221226374/425206339.smil
-#EXTINF:-1 ,cctv4
-rtsp://10.255.27.25/PLTV/88888909/224/3221226311/400175511.smil
-#EXTINF:-1 ,cctv5
-rtsp://10.255.27.25/PLTV/88888909/224/3221226366/425362471.smil
-#EXTINF:-1 ,cctv6
-rtsp://10.255.27.25/PLTV/88888909/224/3221226369/425362475.smil
-#EXTINF:-1 ,cctv7
-rtsp://10.255.27.25/PLTV/88888909/224/3221226318/400175510.smil
-#EXTINF:-1 ,cctv8
-rtsp://10.255.27.25/PLTV/88888909/224/3221226377/425362480.smil
-#EXTINF:-1 ,cctv9
-rtsp://10.255.27.25/PLTV/88888909/224/3221226331/400175524.smil
-#EXTINF:-1 ,cctv10
-rtsp://10.255.27.25/PLTV/88888909/224/3221226334/400175569.smil
-#EXTINF:-1 ,cctv11
-rtsp://10.255.27.25/PLTV/88888909/224/3221226303/380633073.smil
-#EXTINF:-1 ,cctv12
-rtsp://10.255.27.25/PLTV/88888909/224/3221226328/400175504.smil
-#EXTINF:-1 ,cctv13
-rtsp://10.255.27.25/PLTV/88888909/224/3221226391/418683981.smil
-#EXTINF:-1 ,CCTV14
-rtsp://10.255.27.25/PLTV/88888909/224/3221226317/400175568.smil
-#EXTINF:-1 ,CCTV15
-rtsp://10.255.27.25/PLTV/88888909/224/3221226304/380633084.smil
-#EXTINF:-1 ,CCTV17
-rtsp://10.255.27.25/PLTV/88888909/224/3221226386/431519202.smil
-#EXTINF:-1 ,内蒙古少儿频道
-rtsp://10.255.27.25/PLTV/88888909/224/3221226307/381681480.smil
-#EXTINF:-1 ,内蒙古农牧频道
-rtsp://10.255.27.25/PLTV/88888909/224/3221226310/382632520.smil
-#EXTINF:-1 ,内蒙古文化娱乐
-rtsp://10.255.27.25/PLTV/88888909/224/3221226306/382634084.smil
-#EXTINF:-1 ,内蒙古经济生活
-rtsp://10.255.27.25/PLTV/88888909/224/3221226299/382634094.smil
-#EXTINF:-1 ,内蒙古新闻综合
-rtsp://10.255.27.25/PLTV/88888909/224/3221226293/382632502.smil
-#EXTINF:-1 ,鄂尔多斯新闻综合
-rtsp://10.255.27.25/PLTV/88888909/224/3221225779/10000100000000060000000000006012_0.smil
-#EXTINF:-1 ,====== 鄂尔多斯经济服务rtsp://10.255.27.25/PLTV/88888909/224/3221225778/10000100000000060000000000006011_0.smil ======
-http://0/0.m3u8
-#EXTINF:-1 ,江苏卫视4k
-rtsp://10.255.27.25/PLTV/88888909/224/3221226443/567947859.smil
-#EXTINF:-1 ,四川卫视4k
-rtsp://10.255.27.25/PLTV/88888909/224/3221226487/568141018.smil
-#EXTINF:-1 ,东方卫视4k
-rtsp://10.255.27.25/PLTV/88888909/224/3221226449/567947093.smil
-#EXTINF:-1 ,深圳卫视4k
-rtsp://10.255.27.25/PLTV/88888909/224/3221226434/560700679.smil
-#EXTINF:-1 ,广东卫视4k
-rtsp://10.255.27.25/PLTV/88888909/224/3221226475/560700325.smil
-#EXTINF:-1 ,浙江卫视4k
-rtsp://10.255.27.25/PLTV/88888909/224/3221226446/567947095.smil
-#EXTINF:-1 ,湖南卫视4k
-rtsp://10.255.27.25/PLTV/88888909/224/3221226456/567947855.smil
-#EXTINF:-1 ,北京卫视4k
-rtsp://10.255.27.25/PLTV/88888909/224/3221226447/554302139.smil
-#EXTINF:-1 ,山东卫视4k
-rtsp://10.255.27.25/PLTV/88888909/224/3221226459/568141022.smil
-#EXTINF:-1 ,CHC家庭影院
-rtsp://10.255.27.25/PLTV/88888909/224/3221226425/538193497.smil
-#EXTINF:-1 ,CHC影迷电影
-rtsp://10.255.27.25/PLTV/88888909/224/3221226444/538189854.smil
-#EXTINF:-1 ,CHC动作电影
-rtsp://10.255.27.25/PLTV/88888909/224/3221226422/538193493.smil
-#EXTINF:-1 ,内蒙古卫视
-rtsp://10.255.27.25/PLTV/88888909/224/3221225766/10000100000000060000000000006038_0.smil
-#EXTINF:-1 ,CETV1
-rtsp://10.255.27.25/PLTV/88888909/224/3221226448/494618824.smil
-#EXTINF:-1 ,金鹰纪实
-rtsp://10.255.27.25/PLTV/88888909/224/3221225936/10000100000000060000000000114454_0.smil
-#EXTINF:-1 ,北京纪实
-rtsp://10.255.27.25/PLTV/88888909/224/3221225953/10000100000000060000000000138795_0.smil
-#EXTINF:-1 ,CCTV5+
-rtsp://10.255.27.25/PLTV/88888909/224/3221225744/10000100000000060000000000005954_0.smil
-#EXTINF:-1 ,CCTV4K
-rtsp://10.255.27.25/PLTV/88888909/224/3221226426/515860004.smil
-#EXTINF:-1 ,山东教育
-rtsp://10.255.27.25/PLTV/88888909/224/3221225748/10000100000000060000000000005959_0.smil
-#EXTINF:-1 ,北京卡酷
-rtsp://10.255.27.25/PLTV/88888909/224/3221225665/10000100000000060000000000005994_0.smil
-#EXTINF:-1 ,CETV4
-rtsp://10.255.27.25/PLTV/88888909/224/3221226322/394559174.smil
-#EXTINF:-1 ,兵团卫视
-rtsp://10.255.27.25/PLTV/88888909/224/3221226481/563375055.smil
-#EXTINF:-1 ,甘肃卫视
-rtsp://10.255.27.25/PLTV/88888909/224/3221226420/493673757.smil
-#EXTINF:-1 ,新疆卫视
-rtsp://10.255.27.25/PLTV/88888909/224/3221226453/563375024.smil
-#EXTINF:-1 ,西藏卫视
-rtsp://10.255.27.25/PLTV/88888909/224/3221226437/563375017.smil
-#EXTINF:-1 ,宁夏卫视
-rtsp://10.255.27.25/PLTV/88888909/224/3221226440/564025109.smil
-#EXTINF:-1 ,海南卫视
-rtsp://10.255.27.25/PLTV/88888909/224/3221226362/414042243.smil
-#EXTINF:-1 ,山西卫视
-rtsp://10.255.27.25/PLTV/88888909/224/3221226478/561769646.smil
-#EXTINF:-1 ,吉林卫视
-rtsp://10.255.27.25/PLTV/88888909/224/3221226417/493673453.smil
-#EXTINF:-1 ,广西卫视
-rtsp://10.255.27.25/PLTV/88888909/224/3221226450/561080402.smil
-#EXTINF:-1 ,广东卫视
-rtsp://10.255.27.25/PLTV/88888909/224/3221226337/400295651.smil
-#EXTINF:-1 ,河北卫视
-rtsp://10.255.27.25/PLTV/88888909/224/3221226324/400175545.smil
-#EXTINF:-1 ,东南卫视
-rtsp://10.255.27.25/PLTV/88888909/224/3221226332/400295705.smil
-#EXTINF:-1 ,重庆卫视
-rtsp://10.255.27.25/PLTV/88888909/224/3221226445/493673761.smil
-#EXTINF:-1 ,东方卫视
-rtsp://10.255.27.25/PLTV/88888909/224/3221226340/400295655.smil
-#EXTINF:-1 ,湖北卫视
-rtsp://10.255.27.25/PLTV/88888909/224/3221226326/400295647.smil
-#EXTINF:-1 ,深圳卫视
-rtsp://10.255.27.25/PLTV/88888909/224/3221226329/400295659.smil
-#EXTINF:-1 ,贵州卫视
-rtsp://10.255.27.25/PLTV/88888909/224/3221226330/400295639.smil
-#EXTINF:-1 ,深圳卫视
-rtsp://10.255.27.25/PLTV/88888909/224/3221226329/400295659.smil
-#EXTINF:-1 ,江西卫视
-rtsp://10.255.27.25/PLTV/88888909/224/3221226442/493673459.smil
-#EXTINF:-1 ,四川卫视
-rtsp://10.255.27.25/PLTV/88888909/224/3221225944/10000100000000060000000000114445_0.smil
-#EXTINF:-1 ,黑龙江卫视
-rtsp://10.255.27.25/PLTV/88888909/224/3221226346/400295709.smil
-#EXTINF:-1 ,河南卫视
-rtsp://10.255.27.25/PLTV/88888909/224/3221226429/520229583.smil
-#EXTINF:-1 ,云南卫视
-rtsp://10.255.27.25/PLTV/88888909/224/3221226484/565300090.smil
-#EXTINF:-1 ,山东卫视
-rtsp://10.255.27.25/PLTV/88888909/224/3221226349/400295713.smil
-#EXTINF:-1 ,辽宁卫视
-rtsp://10.255.27.25/PLTV/88888909/224/3221226333/400295643.smil
-#EXTINF:-1 ,天津卫视
-rtsp://10.255.27.25/PLTV/88888909/224/3221226343/400295701.smil
-#EXTINF:-1 ,北京卫视
-rtsp://10.255.27.25/PLTV/88888909/224/3221226327/400295635.smil
-#EXTINF:-1 ,安徽卫视
-rtsp://10.255.27.25/PLTV/88888909/224/3221226336/400295663.smil
-#EXTINF:-1 ,江苏卫视
-rtsp://10.255.27.25/PLTV/88888909/224/3221226323/400175549.smil
-#EXTINF:-1 ,浙江卫视
-rtsp://10.255.27.25/PLTV/88888909/224/3221226320/400175539.smil
-#EXTINF:-1 ,湖南卫视
-rtsp://10.255.27.25/PLTV/88888909/224/3221226314/400175587.smil
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.cn/tv/内蒙古卫视.png",内蒙古卫视
+http://play1-qk.nmtv.cn/live/3208526general.m3u8
+#EXTINF:-1 tvg-name="内蒙古蒙古语卫视" tvg-logo="https://i0.hdslb.com/bfs/article/635a0ca922c06e951a4a52e482e302d0382367415.png",内蒙古蒙古语卫视
+http://play1-qk.nmtv.cn/live/2315general.m3u8
+#EXTINF:-1 tvg-name="内蒙古新闻综合" tvg-logo="https://live.fanmingming.cn/tv/内蒙古新闻综合.png",内蒙古新闻综合
+http://play1-qk.nmtv.cn/live/2316general.m3u8
+#EXTINF:-1 tvg-name="内蒙古经济生活" tvg-logo="https://live.fanmingming.cn/tv/内蒙古经济生活.png",内蒙古经济生活
+http://play1-qk.nmtv.cn/live/2317general.m3u8
+#EXTINF:-1 tvg-name="内蒙古少儿" tvg-logo="https://i0.hdslb.com/bfs/article/63fdf60f26654ce7bb5f85bd3349d160382367415.png",内蒙古少儿
+http://play1-qk.nmtv.cn/live/2318general.m3u8
+#EXTINF:-1 tvg-name="内蒙古文体娱乐" tvg-logo="https://live.fanmingming.cn/tv/内蒙古文体娱乐.png",内蒙古文体娱乐
+http://play1-qk.nmtv.cn/live/2319general.m3u8
+#EXTINF:-1 tvg-name="内蒙古农牧" tvg-logo="https://live.fanmingming.cn/tv/内蒙古农牧.png",内蒙古农牧
+http://play1-qk.nmtv.cn/live/2320general.m3u8
+#EXTINF:-1 tvg-name="内蒙古蒙古语文化" tvg-logo="https://i0.hdslb.com/bfs/article/7123396a25e94bf98c57c84453f96480382367415.png",内蒙古蒙古语文化
+http://play1-qk.nmtv.cn/live/2321general.m3u8
+#EXTINF:-1 tvg-name="呼和浩特综合" tvg-logo="https://live.fanmingming.cn/tv/呼和浩特新闻综合.png",呼和浩特新闻综合
+http://play1-qk.nmtv.cn/live/2331general.m3u8
+#EXTINF:-1 tvg-name="包头新闻综合" tvg-logo="https://i0.hdslb.com/bfs/new_dyn/4b562b7af9d63c3ca5a0154f8a0d8ad01771623335.png",包头新闻综合
+http://play1-qk.nmtv.cn/live/2358general.m3u8
+#EXTINF:-1 tvg-name="乌海新闻综合" tvg-logo="https://live.fanmingming.cn/tv/乌海新闻综合.png",乌海新闻综合
+http://play1-qk.nmtv.cn/live/2355general.m3u8
+#EXTINF:-1 tvg-name="赤峰新闻综合" tvg-logo="https://live.fanmingming.cn/tv/赤峰新闻综合.png",赤峰新闻综合
+http://play1-qk.nmtv.cn/live/2351general.m3u8
+#EXTINF:-1 tvg-name="呼伦贝尔新闻综合" tvg-logo="https://live.fanmingming.cn/tv/呼伦贝尔新闻综合.png",呼伦贝尔新闻综合
+http://play1-qk.nmtv.cn/live/2356general.m3u8
+#EXTINF:-1 tvg-name="兴安盟新闻综合" tvg-logo="https://i0.hdslb.com/bfs/new_dyn/c596be79a66c7a21cf2f422d02afea9b382367415.png",兴安盟新闻综合
+http://play1-qk.nmtv.cn/live/2357general.m3u8
+#EXTINF:-1 tvg-name="通辽新闻综合" tvg-logo="https://i0.hdslb.com/bfs/new_dyn/21fc41ca7b1063316075523e93ab1886382367415.png",通辽新闻综合
+http://play1-qk.nmtv.cn/live/2353general.m3u8
+#EXTINF:-1 tvg-name="锡林郭勒新闻综合" tvg-logo="https://i0.hdslb.com/bfs/new_dyn/cd77ff41939b996b5fd5ddf98aff7da5382367415.png",锡林郭勒新闻综合
+http://play1-qk.nmtv.cn/live/2346general.m3u8
+#EXTINF:-1 tvg-name="乌兰察布新闻综合" tvg-logo="https://live.fanmingming.cn/tv/乌兰察布.png",乌兰察布新闻综合
+http://play1-qk.nmtv.cn/live/2354general.m3u8
+#EXTINF:-1 tvg-name="鄂尔多斯新闻综合" tvg-logo="https://live.fanmingming.cn/tv/鄂尔多斯新闻综合.png",鄂尔多斯新闻综合
+http://play1-qk.nmtv.cn/live/2349general.m3u8
+#EXTINF:-1 tvg-name="巴彦淖尔新闻综合" tvg-logo="https://live.fanmingming.cn/tv/巴彦淖尔新闻综合.png",巴彦淖尔新闻综合
+http://play1-qk.nmtv.cn/live/2348general.m3u8
+#EXTINF:-1 tvg-name="阿拉善新闻综合" tvg-logo="https://i0.hdslb.com/bfs/new_dyn/4495fd00fbae99cc673114db11cfdebb382367415.png",阿拉善新闻综合
+http://play1-qk.nmtv.cn/live/2347general.m3u8
