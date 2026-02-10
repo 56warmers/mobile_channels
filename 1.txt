@@ -1,4 +1,12 @@
 央视频道,#genre#
+CCTV1,http://59.175.8.220:7777/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$『央视卫视直播源』
+CCTV2,http://59.175.8.220:7777/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$『央视卫视直播源』
+CCTV3,http://59.175.8.220:7777/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$『央视卫视直播源』
+CCTV4,http://59.175.8.220:7777/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$『央视卫视直播源』
+CCTV5,http://59.175.8.220:7777/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$『央视卫视直播源』
+CCTV6,http://59.175.8.220:7777/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$『央视卫视直播源』
+CCTV7,http://59.175.8.220:7777/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$『央视卫视直播源』
+CCTV8,http://59.175.8.220:7777/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$『央视卫视直播源』
 CCTV1,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225920/1.m3u8?fmt=ts2hls$『全网』
 CCTV2,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225918/1.m3u8?fmt=ts2hls$『全网』
 CCTV3,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225963/1.m3u8?fmt=ts2hls$『全网』
